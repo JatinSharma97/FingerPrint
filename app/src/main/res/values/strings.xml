@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BioMetric</string>
+    <string name="error_msg_no_biometric_hardware">101</string>
+    <string name="error_msg_biometric_hw_unavailable">102</string>
+    <string name="error_msg_biometric_not_setup">103</string>
+    <string name="search_here">Search Here</string>
+    <string name="search">Search</string>
+    <string name="no_Result_found">No Result Found</string>
+    <string name="apiKey">21281621-fb0f025a0fc2e6e5a257254d4</string>
+    <string name="dialog_title_auth">Passcode Authentication</string>
+    <string name="dialog_msg_auth">Please Enter Pin</string>
+</resources>
