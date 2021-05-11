@@ -1,2 +1,2 @@
 # FingerPrint
-Iimplementaion of Fingerprint in kotlin
+Implementaion of Fingerprint in kotlin
